@@ -9,7 +9,7 @@ import pandas as pd
 '''
 ls=["mohammed","ahmed","naji","safe"]
 
-
+print("4 Kilos potato B 1000 ")
 print(ls)
 print('\n')
 p=pd.Series(ls)

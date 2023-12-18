@@ -14,7 +14,7 @@ print(ls)
 print('\n')
 p=pd.Series(ls)
 print(p)
-
+##R7-yn
 
 ls=["mohammed","ahmed","naji","safi"]
 ser=pd.Series(ls,index=['A','B','C','D'])
